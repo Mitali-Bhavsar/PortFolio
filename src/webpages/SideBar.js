@@ -1,7 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import bgimg from "../Images/mb-logo.jpg";
-import "../JS/script.js";
 import "../CSS/style.css";
 
 const SideBar = () => {
