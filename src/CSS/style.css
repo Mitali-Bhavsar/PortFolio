@@ -592,8 +592,11 @@ footer{
 .one span {
   font-size: 3rem;
 }
-
+.animate {
+	font-size: 40px;
 }
+}
+
 @media(max-width:990px){
   .project .proj{
     width: 180px;
