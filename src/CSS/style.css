@@ -589,6 +589,9 @@ footer{
   font-size: 20px;
   padding-bottom: 30px;
 }
+.one span {
+  font-size: 3rem;
+}
 
 }
 @media(max-width:990px){
