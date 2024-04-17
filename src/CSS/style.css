@@ -148,7 +148,7 @@ a{
   }
   
   .css-typing p:nth-child(2) {
-    width: 6em;
+    width: 6.5em;
     opacity: 0;
     -webkit-animation: type2 2s steps(20, end);
     animation: type2 2s steps(20, end);
