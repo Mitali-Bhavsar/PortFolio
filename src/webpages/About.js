@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const About = () => {
   return (
@@ -6,7 +6,7 @@ const About = () => {
       <div className='about-text'>
     <span className="text1"> About</span>
     <span className="text2">
-    Having 2+ years of experience in development. Experienced UI Developer with passion for creating attractive and interactive websites meeting customer needs
+    Having 2 years of experience in development. Experienced UI Developer with passion for creating attractive and interactive websites meeting customer needs
 and exceeding expectations. Focused on creating clean, robust code with exceptional security. 
     </span>
     </div>

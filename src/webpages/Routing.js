@@ -6,6 +6,7 @@ import Contact from "./Contact";
 import Projects from "./Projects"
 import Skills from './Skills';
 import DashBoard from './DashBoard';
+import Experince from './Experince';
 
 const Routing = () => {
   return (
@@ -14,6 +15,7 @@ const Routing = () => {
           <Route path="/" element={<DashBoard />}>
               <Route path="/" element={<Home /> } />
               <Route path="/about" element={<About /> } />
+              <Route path="/experience" element={<Experince /> } />
               <Route path="/skills" element={<Skills /> } />
               <Route path="/projects" element={<Projects /> } />
               <Route path="/contact" element={<Contact /> } />

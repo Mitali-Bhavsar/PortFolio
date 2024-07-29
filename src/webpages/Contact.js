@@ -1,8 +1,12 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { NavLink } from 'react-router-dom';
+import AOS from 'aos';
 import "aos/dist/aos.css";
 
 export default function Contact() {
+  useEffect(() => {
+    AOS.init();
+  }, []);
   return (
    <section>
     <div className="animate six">
