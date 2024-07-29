@@ -6,10 +6,10 @@ const Footer = () => {
     <div className='container-fluid'>
       <div className='row'>
         <div className='col-md-6 text-start '>
-            <p className='margin-0'>&copy;Copyright @ 2024 All rights reserved</p>
+            <p className='margin-0 pt-1'>&copy;Copyright @ 2024 All rights reserved</p>
         </div>
         <div className='col-md-6 text-end'>
-            <p className='margin-0'>-Mitali Bhavsar</p>
+            <p className='margin-0 pt-1' >-Mitali Bhavsar</p>
         </div>
       </div>
 
