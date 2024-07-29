@@ -541,7 +541,7 @@ footer{
   font-size: 25px;
   font-weight: 600;
   color: #e4e3de;
-  padding-bottom: 11px;
+  padding-bottom: 20px;
 }
 
 .six span {
@@ -573,7 +573,8 @@ footer{
     padding-bottom: 15px;
   }
   .s-skills{
-    font-size: 20px;
+    padding-bottom: 5px;
+    font-size: 28px;
 }
 .b-footer .col-md-6{
 width:50%;
