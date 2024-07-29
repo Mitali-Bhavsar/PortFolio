@@ -20,6 +20,8 @@ export default function Contact() {
             <p className='contact-font text-start'><i className="bi bi-geo-alt-fill pe-4"></i>Hyderabad,500016</p>
             <NavLink to="https://www.google.com/gmail/about/" target="_blank"><p className='contact-font text-start'><i className="bi bi-envelope-fill pe-4"></i>mitali.bodkhe@gmail.com</p></NavLink>
             <NavLink to="https://www.linkedin.com/in/mitali-bhavsar0202" target="_blank"><p className='contact-font text-start'><i className="bi bi-linkedin pe-4"></i>https://www.linkedin.com/in/mitali-bhavsar0202</p></NavLink>
+            <NavLink to="https://github.com/Mitali-Bhavsar" target="_blank"><p className='contact-font text-start'><i className="bi bi-github pe-4"></i>https://github.com/Mitali-Bhavsar</p></NavLink>
+            <NavLink to="https://app.netlify.com/teams/mitali-bodkhe/sites" target="_blank"><p className='contact-font text-start'><i className="bi bi-globe2 pe-4"></i>https://app.netlify.com/teams/mitali-bodkhe</p></NavLink>
           </div>
           
         </div>
