@@ -15,7 +15,7 @@ const Skills = () => {
 			<span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
        </div>
        <div className='container'>
-        <div className='row mb-5rem'>
+        <div className='row pb-4'>
           <div className='col-md-6'>
               <p className='s-skills' data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1000"><i className="bi bi-filetype-html px-3"></i>HTML5</p>
           </div>
