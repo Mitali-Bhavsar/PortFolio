@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.ad15c7d8.css",
+    "main.js": "/Portfolio/static/js/main.b995ffab.js",
+    "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/MabServices.png": "/Portfolio/static/media/MabServices.884b009b49a7c1552865.png",
+    "static/media/MABPhotography.png": "/Portfolio/static/media/MABPhotography.289e6d3f575102b619f7.png",
+    "static/media/TreeFold.png": "/Portfolio/static/media/TreeFold.0cd00c6ca58e2064d5fe.png",
+    "static/media/Ehealthcare.png": "/Portfolio/static/media/Ehealthcare.7508d2dfb501ed2e8727.png",
+    "static/media/ElearnDemo.png": "/Portfolio/static/media/ElearnDemo.b655c395a523ddc5dfbc.png",
+    "static/media/bootstrap-icons.woff?": "/Portfolio/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/Merriweather-Black.ttf": "/Portfolio/static/media/Merriweather-Black.cfe2aa3843d8cb416e1a.ttf",
+    "static/media/bootstrap-icons.woff2?": "/Portfolio/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/codeEditor.png": "/Portfolio/static/media/codeEditor.fb2b94ca61aa3d4e1bab.png",
+    "index.html": "/Portfolio/index.html",
+    "main.ad15c7d8.css.map": "/Portfolio/static/css/main.ad15c7d8.css.map",
+    "main.b995ffab.js.map": "/Portfolio/static/js/main.b995ffab.js.map",
+    "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad15c7d8.css",
+    "static/js/main.b995ffab.js"
+  ]
+}
