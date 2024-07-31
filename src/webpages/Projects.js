@@ -4,7 +4,8 @@ import Ehealthcare from '../Images/Ehealthcare.png';
 import MabServices from '../Images/MabServices.png';
 import ElearnDemo from '../Images/ElearnDemo.png';
 import TreeFold from '../Images/TreeFold.png';
-import MABPhotography from '../Images/MABPhotography.png'
+import MABPhotography from '../Images/MABPhotography.png';
+import codeEditor from '../Images/codeEditor.png'
 import AOS from "aos";
 import "aos/dist/aos.css";
 const Projects = () => {
@@ -44,6 +45,12 @@ const Projects = () => {
       </div>
       <div className='row'>
       <div className='col-md-4'>
+        <NavLink className='text-decoration-none' to="https://mabcode-editor.netlify.app/" target="_blank" >
+            <img className="proj" src={codeEditor} alt="" data-aos="zoom-in" />
+            <p className='text-white'> Code Editor</p>
+          </NavLink>
+        </div>
+      <div className='col-md-4'>
         <NavLink className='text-decoration-none' to="https://elearndemo.netlify.app/" target="_blank" >
             <img className="proj" src={ElearnDemo} alt="" data-aos="zoom-in" />
             <p className='text-white'> ELearning</p>
@@ -54,9 +61,6 @@ const Projects = () => {
             <img className="proj" src={TreeFold} alt="" data-aos="zoom-in" />
             <p className='text-white'>Tree Fold</p>
           </NavLink>
-        </div>
-        <div className='col-md-4'>
-
         </div>
         <div className='col-md-4'>
 
